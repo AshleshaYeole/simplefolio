@@ -27,5 +27,7 @@ function addResume(pdf) {
 initSr();
 initTilt();
 
-// uncomment this if you want to attach your resume
+//uncomment this if you want to attach your resume
 addResume(resume);
+
+
